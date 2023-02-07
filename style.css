@@ -1,0 +1,30 @@
+* {
+    list-style-type: none;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    background: rgb(16, 9, 105);
+    background: linear-gradient(22deg, rgba(16, 9, 105, 1) 4%, rgba(47, 91, 191, 1) 47%, rgba(0, 212, 255, 1) 100%);
+}
+
+button {
+    padding: 10px 10px;
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(102, 102, 102);
+
+
+}
+.boxs{
+    background-color: beige;
+}
